@@ -1,0 +1,68 @@
+[
+	{
+		"bookID": 1,
+		"reviewID": 1,
+		"user": {
+			"first_name": "Michal",
+			"last_name": "Horoščák",
+			"birth_date": "",
+			"gender": "male",
+			"age": 0,
+			"email": "",
+			"address": {
+				"street": "Horná 154",
+				"postal_code": "999 99",
+				"city": "Bratislava",
+				"country": "SR",
+				"state": ""
+			}
+		},
+		"user_rating": 5.0,
+		"review_text": "V predhovore k druhému vydaniu tejto nezabudnuteľnej trilógie J.R.R. Tolkien opísal, ako tento príbeh narastal pri rozprávaní, až sa stal dejinami Veľkej vojny o Prsteň. Táto knižná trilógia, nepochybne jedna z najznámejších a najobľúbenejších fantasy príbehov minulého storočia, nás zavedie do fascinujúceho a do detailu premysleného sveta plného elfov, hobitov a magických príšer.",
+		"review_date": "2024-03-01"
+	},
+	{
+		"bookID": 2,
+		"reviewID": 2,
+		"user": {
+			"first_name": "Matúš",
+			"last_name": "Kačmár",
+			"birth_date": "",
+			"gender": "male",
+			"age": 0,
+			"email": "",
+			"address": {
+				"street": "Dolná 15",
+				"postal_code": "321 78",
+				"city": "Lehota",
+				"country": "SR",
+				"state": ""
+			}
+		},
+		"user_rating": 4.0,
+		"review_text": "Hviezdu uberám slovenskému vydaniu. Značná časť prvej polovice knihy ma tlačové chyby. Moja kópia mala kopu vyblednutých, zle vytlačených strán. V celej knihe sa konzistentne objavujú preklepy ta namiesto tam a podobne. Veci ktoré by človek očakával pri prvom vydaní, ale toto je už tretie. Aby som sa len nesťažoval, prebal knihy je veľmi pekný.",
+		"review_date": "2023-04-01"
+	},
+	{
+		"bookID": 3,
+		"reviewID": 3,
+		"user": {
+			"first_name": "Daniel",
+			"last_name": "Šiška",
+			"birth_date": "",
+			"gender": "male",
+			"age": 0,
+			"email": "",
+			"address": {
+				"street": "Borovicová 5",
+				"postal_code": "111 77",
+				"city": "Jedličkovo",
+				"country": "SR",
+				"state": ""
+			}
+		},
+		"user_rating": 3.0,
+		"review_text": "Tretia cast serie je svojim stylom rovnaka ako prve dve. Takze bud sa to cele paci alebo nie. Mne skor nie. Za trojku samu o sebe davam tri hviezdicky. A premyslal som, co s celou seriou. Ta si podla mna nezasluzi ani tie tri.",
+		"review_date": "2022-05-16"
+	}
+]

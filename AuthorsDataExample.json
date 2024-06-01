@@ -1,0 +1,29 @@
+[
+	{
+	"authorID":1,
+	"first_name":"J.R.R.",
+	"last_name":"Tolkien",
+	"nationality":"anglická",
+	"biography":"",
+	"website":"",
+	"birth_date":"1892-01-03"
+	},
+	{
+	"authorID":2,
+	"first_name":"Martin",
+	"last_name":"Kukučín",
+	"nationality":"slovenská",
+	"biography":"",
+	"website":"",
+	"birth_date":"1860-05-17"
+	},
+	{
+	"authorID":3,
+	"first_name":"Dan",
+	"last_name":"Brown",
+	"nationality":"americká",
+	"biography":"",
+	"website":"https://danbrown.com/",
+	"birth_date":"1964-06-22"
+	}
+]

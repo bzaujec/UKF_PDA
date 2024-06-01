@@ -1,0 +1,123 @@
+[
+	{
+	"bookID":1,
+	"bookname":"Pán prsteňov - Spoločenstvo prsteňa",
+	"year_published":2012,
+	"ISBN":"9788055606347",
+	"pageCount":456,
+	"format":"pevná väzba s prebalom",
+	"edition":"",
+	"publicationDate":"2012-01-01",
+	"weight":805,
+	"language":{
+		"language_name":"slovenčina"},
+	"genres":{
+		"genres_name":"fantasy",
+		"description":"Sci-fi, fantasy a komiksy"},
+	"bookSeries":{
+		"series_name":"Pán prsteňov",
+		"description": "Lord of the Rings"},
+	"events":[{
+		"event_name":"",
+		"event_date":"2012-01-01",
+		"description":""}],
+	"awards":[{
+		"award_name":"Jedno z najlepších diel fantasy literatúry 20. storočia.",
+		"award_date":"",
+		"award_year":"",
+		"organization_name":"Sunday Telegraph"}
+		],
+	"dauthors":[{
+		"objectID":1}
+		],
+	"publishers":[{
+		"publisher_name":"Slovart",
+		"founder":"",
+		"website":"https://www.slovart.sk/"
+	}]	
+	},
+	{
+	"bookID":2,
+	"bookname":"Pán prsteňov - Dve veže",
+	"year_published":2012,
+	"ISBN":"9788055606323",
+	"pageCount":376,
+	"format":"pevná väzba s prebalom",
+	"edition":"",
+	"publicationDate":"2012-01-01",
+	"weight":696,
+	"language":{
+		"language_name":"slovenčina"},
+	"genres":{
+		"genres_name":"fantasy",
+		"description":"Sci-fi, fantasy a komiksy"},
+	"bookSeries":{
+		"series_name":"Pán prsteňov",
+		"description": "Lord of the Rings"},
+	"events":[{
+		"event_name":"",
+		"event_date":"2012-01-01",
+		"description":""}],
+	"awards":[{
+		"award_name":"Jedno z najlepších diel fantasy literatúry 20. storočia.",
+		"award_date":"",
+		"award_year":"",
+		"organization_name":"Sunday Telegraph"},
+		{
+		"award_name":"Čitatelia sa delia na tých, ktorí už čítali Hobita a Pána prsteňov, a na tých, čo ich ešte len prečítajú.",
+		"award_date":"",
+		"award_year":"",
+		"organization_name":"SUNDAY TIMES"}		
+		],
+	"dauthors":[{
+		"objectID":1}
+		],
+	"publishers":[{
+		"publisher_name":"Slovart",
+		"founder":"",
+		"website":"https://www.slovart.sk/"
+	}]	
+	},
+	{
+	"bookID":3,
+	"bookname":"Pán prsteňov - Návrat kráľa",
+	"year_published":2012,
+	"ISBN":"9788055606309",
+	"pageCount":432,
+	"format":"pevná väzba s prebalom",
+	"edition":"",
+	"publicationDate":"2012-01-01",
+	"weight":769,
+	"language":{
+		"language_name":"slovenčina"},
+	"genres":{
+		"genres_name":"fantasy",
+		"description":"Sci-fi, fantasy a komiksy"},
+	"bookSeries":{
+		"series_name":"Pán prsteňov",
+		"description": "Lord of the Rings"},
+	"events":[{
+		"event_name":"",
+		"event_date":"2012-01-01",
+		"description":""}],
+	"awards":[{
+		"award_name":"Jedno z najlepších diel fantasy literatúry 20. storočia.",
+		"award_date":"",
+		"award_year":"",
+		"organization_name":"Sunday Telegraph"},
+		{
+		"award_name":"Čitatelia sa delia na tých, ktorí už čítali Hobita a Pána prsteňov, a na tých, čo ich ešte len prečítajú.",
+		"award_date":"",
+		"award_year":"",
+		"organization_name":"SUNDAY TIMES"}		
+		],
+	"dauthors":[{
+		"objectID":1}
+		],
+	"publishers":[{
+		"publisher_name":"Slovart",
+		"founder":"",
+		"website":"https://www.slovart.sk/"
+	}]	
+	}	
+]
